@@ -25,4 +25,16 @@
 2. Вызвать консоль и прописать `gcc cntrlv_for.c -lm -o result` 
 3. прописать в консоли `./result` 
 ###
-3. Построил график с использование gnuplot
+3. Построил график с использование gnuplot\
+![](ScrPlot.png)
+###
+4. Составил блок схемы\
+While \
+![](ScrBlWh.png)
+\
+for \
+![](ScrBlFor.png)
+5. Оформил отчёт
+# Ссылки
+1. https://evil-teacher.on.fleek.co/prog_pm/term1/lab02/
+2. https://programforyou.ru/block-diagram-redactor
