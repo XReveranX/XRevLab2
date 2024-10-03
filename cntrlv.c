@@ -5,6 +5,7 @@ int main()
 {
 double x = 0.000000;
 double h;
+printf("Введиде шаг h для x\n");
 scanf("%lf", &h);
 
 do
