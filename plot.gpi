@@ -4,5 +4,7 @@
 set xlabel "x" 
 set ylabel "f(x)"
 set grid
+set yrange [0:10]
+set xrange [0:1.7]
 set title "График функции f(x)"
-plot "my.txt" with lines title "f(x)"
+plot "gplot.dat" with lines title "f(x)"
